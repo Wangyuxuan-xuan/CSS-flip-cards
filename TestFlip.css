@@ -60,12 +60,17 @@ body {
   
   .flip-card-back {
     background-color: #73eff3;
-    color: white;
+    color: black;
     transform: rotateY(180deg);
   }
 
   h1,h3{
     color: aliceblue;
   }
+
+  h1#cloth{
+    color: rgb(80, 3, 3);
+  }
+
 
 
